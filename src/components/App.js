@@ -164,7 +164,7 @@ const App = () => {
       <main className={classes.constent}>
       <div className={classes.toolbar} />
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/ai_knowledge_graph">
             <CameraOrbit />
           </Route>
           <Route exact path="/cat_dog_classifier">
