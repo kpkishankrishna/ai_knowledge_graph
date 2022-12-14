@@ -37,7 +37,7 @@ const NavBar = () => {
 								<Button
 										color="inherit"
 										component={Link}
-										to="/"
+										to="/ai_knowledge_graph"
 										className={classes.linkButton}
 										onClick={() => {}}
 								>
@@ -46,7 +46,7 @@ const NavBar = () => {
 								<Button
 										color="inherit"
 										component={Link}
-										to="/cat_dog_classifier"
+										to="/ai_knowledge_graph/cat_dog_classifier"
 										className={classes.linkButton}
 										onClick={() => {}}
 								>
@@ -55,7 +55,7 @@ const NavBar = () => {
 								<Button
 										color="inherit"
 										component={Link}
-										to="/stable_Diffussion"
+										to="/ai_knowledge_graph/stable_Diffussion"
 										className={classes.linkButton}
 										onClick={() => {}}
 								>
