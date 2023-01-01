@@ -2,7 +2,7 @@ import React from 'react'
 
 const catDogClassif = () =>  {
   async function loaded(reader) {
-    const response = await fetch('https://krushna-space1.hf.space/api/predict', {
+    const response = await fetch('https://krushna-cat-dog-classifier.hf.space/api/predict', {
       method: "POST", body: JSON.stringify({ "data": [reader.result] }),
       headers: { "Content-Type": "application/json" }
     });
