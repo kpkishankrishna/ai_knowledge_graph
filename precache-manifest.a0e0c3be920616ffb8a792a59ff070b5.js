@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "b18617385c686602ee51",
-    "url": "/ai_knowledge_graph/static/js/main.931fd0a9.chunk.js"
+    "revision": "f18445f1bee30db0b20a",
+    "url": "/ai_knowledge_graph/static/js/main.6b95f1fa.chunk.js"
   },
   {
     "revision": "a0addaa31777ae1312cf",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/ai_knowledge_graph/static/js/2.1194a71a.chunk.js"
   },
   {
-    "revision": "58926d8e5b4042463d0efb9a5791e4b1",
+    "revision": "41f5369d52e23945ab0081f8bd424467",
     "url": "/ai_knowledge_graph/index.html"
   }
 ];
